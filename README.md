@@ -6,6 +6,6 @@ Must have your own mask_data, test_mask_data folders:
 # mask_data
   ## annotations
   ## images
-#test_mask_data
+# test_mask_data
   ## annotations
   ## images
